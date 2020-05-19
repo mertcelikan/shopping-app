@@ -19,4 +19,4 @@ Please make sure to update tests as appropriate.
 
 
 
-<img src="https://github.com/favicon.ico" height="44" width="88">
+<img src="/images/1.jpg" height="44" width="88">
