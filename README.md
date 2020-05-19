@@ -18,11 +18,7 @@ Please make sure to update tests as appropriate.
 
 
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
 
 
-
-
-![GitHub Logo](/images/2.jpg)
-Format: ![Alt Text](url)
-/images/1.jpg
