@@ -18,4 +18,5 @@ Please make sure to update tests as appropriate.
 
 
 
-![test](https://github.com/favicon.ico){:height="24px" width="48px"}
+
+<img src="https://github.com/favicon.ico" height="44" width="88">
