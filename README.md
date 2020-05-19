@@ -19,4 +19,4 @@ Please make sure to update tests as appropriate.
 
 
 
-<img src="/images/1.jpg" height="44" width="88">
+<img src="/images/1.jpg" height="580" width="310"> <img src="/images/2.jpg" height="580" width="310"> <img src="/images/3.jpg" height="580" width="310"> <img src="/images/4.jpg" height="580" width="310"> <img src="/images/6.jpg" height="580" width="310">
