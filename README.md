@@ -18,7 +18,4 @@ Please make sure to update tests as appropriate.
 
 
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-
-
-
+![test](https://github.com/favicon.ico){:height="24px" width="48px"}
